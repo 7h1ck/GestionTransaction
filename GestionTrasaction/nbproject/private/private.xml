@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/services/Security.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/models/Depot.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/models/Transaction.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/models/Client.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/views/AddCompteController.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/models/Compte.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/dao/TransactionDao.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/views/FaireDepotController.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/views/ConnexionController.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/services/Transaction.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/views/Transaction.fxml</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/views/utils/Utils.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/models/Partenaire.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/gestiontrasaction/Main.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/models/User.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/dao/DepotDao.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/views/TransactionController.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/dao/CompteDao.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/dao/PartenaireDao.java</file>
+            <file>file:/D:/COURS/JAVA%20avancé/Projet/GestionTrasaction/src/dao/UserDao.java</file>
+        </group>
+    </open-files>
+</project-private>
